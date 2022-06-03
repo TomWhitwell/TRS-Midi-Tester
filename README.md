@@ -4,6 +4,8 @@
 
 A simple passive tester to identify if you TRS Midi signal is [Type A or Type B](https://minimidi.world/). 
 
+3 x boards from Oshpark cost about $2. 
+
 When building, ensure you get your LEDs the right way round!  
 
 BOM: 
