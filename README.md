@@ -1,6 +1,6 @@
 ![front](https://user-images.githubusercontent.com/1890544/171835093-67065fdd-d8d0-4514-a8ca-9529d9f6e2af.jpg)
 
-# Midi_tester
+# Music Thing Modular TRS Midi Tester
 
 A simple passive tester to identify if you TRS Midi signal is [Type A or Type B](https://minimidi.world/). 
 
