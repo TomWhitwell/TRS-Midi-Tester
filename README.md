@@ -6,5 +6,5 @@ BOM:
 
 1 x 3.5mm Stereo SMD Audio Jack CUI SJ-3524-SMT-TR or equivalent 
 1 x 330 Ohm 0603 resistor 
-2 x 1206 LEDs suitable for reverse mounting KPTL-3216SYCK or similar 
+2 x 1206 LEDs suitable for reverse mounting KPTL-3216SYCK or similar (A 1206 LED with a circular / cylindrical lens - not a square lens - will fit into the hole.) 
 
